@@ -62,6 +62,8 @@ Once the repository has been downloaded and the dependencies are installed, navi
 
 After updating and saving the `config.conf` file, run the application by executing `\glucose_tracker-main\glucose_tracker-main\glucose_tracker_5.exe`. This will launch the Glucose Tracker application.
 
+Recommend on Windows using [PowerToys Always On Top](https://learn.microsoft.com/en-us/windows/powertoys/always-on-top) this allows you to pin the application anywhere on the screen.
+
 ---
 
 ## Contributing
@@ -97,7 +99,7 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 ## Acknowledgments
 
-Thanks to Ronaldr1985 for assisting with this application and for building a version that works directly on a Raspberry Pi Zero using an OLED Display Hat. More details about this project can be found on their github page.
+Massive thanks to [Ronaldr1985](https://github.com/Ronaldr1985) for assisting with this application and for building a version that works directly on a Raspberry Pi Zero using an OLED Display Hat. More details about this project can be found on their github page.
 
 
 
