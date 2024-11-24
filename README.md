@@ -75,7 +75,7 @@ I welcome contributions! If you'd like to contribute to the project, please foll
    ```
 3. Create a new branch for your feature:
    ```bash
-   git checkout -b feature-namet
+   git checkout -b feature-name
    ```
 4. Make your changes and commit them:
    ```bash
